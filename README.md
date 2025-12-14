@@ -127,12 +127,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
 
-<details>
-<summary><code>clerk.route.ts</code></summary>
-
-```typescript
 /* eslint-disable camelcase */
 // Resource: https://clerk.com/docs/users/sync-data-to-your-backend
 // Above article shows why we need webhooks i.e., to sync data to our backend
