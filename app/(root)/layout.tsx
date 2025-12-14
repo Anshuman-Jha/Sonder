@@ -27,6 +27,12 @@ export default function RootLayout({
       dynamic
       appearance={{
         baseTheme: dark,
+        variables: {
+          colorPrimary: "#877EFF",
+        },
+        elements: {
+          formButtonPrimary: "bg-primary-500 hover:bg-primary-500/90",
+        },
       }}
     >
       <html lang='en'>
