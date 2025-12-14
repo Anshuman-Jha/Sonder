@@ -1,0 +1,17 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>Sonder App Logo</title>
+
+    <path d="M5 25 C15 25, 10 5, 25 5 C28 5, 28 15, 28 15" 
+          stroke="url(#paint0_linear_883_4378)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <path d="M5 5 C15 5, 10 25, 25 25 C28 25, 28 15, 28 15" 
+          stroke="url(#paint0_linear_883_4378)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <defs>
+    <linearGradient id="paint0_linear_883_4378" x1="15" y1="0" x2="15" y2="30" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#DD7EFF"/>
+    <stop offset="0.461458" stop-color="#685DFF"/>
+    <stop offset="1" stop-color="#2152FF"/>
+    </linearGradient>
+    </defs>
+</svg>
